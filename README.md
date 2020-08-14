@@ -17,7 +17,7 @@
 <br/>
 - 💬 Ask me about **React, Redux, Vue, Node**
 <br/>
-- 📫 How to reach me **jassemgaaloul123@gmail.com**
+- 📫 How to reach me <a href="jassemgaaloul123@gmail.com">Jassem Gaaloul Email </a>
 <br/>
 - ⚡ Fun fact **Coffee over All**
 <br/><br/><br/><br/><br/>
