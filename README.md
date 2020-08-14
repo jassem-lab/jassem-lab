@@ -29,7 +29,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&hide=html" alt="jassem-lab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true" alt="jassem-lab" /></p>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <p align="center">
 <a href="https://dev.to/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jassemgaaloul" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jassemgaaloul" height="30" width="30" /></a>
