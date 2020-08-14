@@ -1,3 +1,3 @@
 # Jassem Gaaloul
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?jassemgaaloul=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jassem-lab)](https://github.com/jassem-lab/github-readme-stats)
