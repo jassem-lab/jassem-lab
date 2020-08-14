@@ -1,8 +1,14 @@
+<div class="canva-embed" data-design-id="DAEE4JwaIMg" data-height-ratio="0.3036" style="padding:30.3571% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEE4JwaIMg&#x2F;view?utm_content=DAEE4JwaIMg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Monochrome LinkedIn Banner</a> par jassem gaaloul
+
 
 <h1 align="center">Hi 👋, I'm jassem</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia,</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassem-lab" alt="jassem-lab" /> </p>
+
+
 
 - 🔭 I’m currently working as **a freelancer**
 
