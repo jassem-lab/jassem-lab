@@ -13,7 +13,7 @@
 <br/><br/>
 - 🌱 I’m currently learning **Game development**
 <br/><br/>
-- 👨‍💻 All of my projects are available at <a href="https://jassemdev.netlify.app/">JassemDev.netlify.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://jassemdev.herokuapp.com/">jassemdev.herokuapp.com</a>
 <br/><br/>
 - 💬 Ask me about **React, Redux, Vue, Node**
 <br/><br/>
