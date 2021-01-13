@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **a freelancer**
 <br/><br/>
-- 🌱 I’m currently learning **Game development**
+- 🌱 I’m currently learning **Python & Desktop application development**
 <br/><br/>
 - 👨‍💻 All of my projects are available at <a href="https://jassemdev.herokuapp.com/">jassemdev.herokuapp.com</a>
 <br/><br/>
