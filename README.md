@@ -52,3 +52,15 @@
 <a href="https://fb.com/jassem gaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jassem gaaloul" height="30" width="30" /></a>
 <a href="https://instagram.com/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jassemgaaloul" height="30" width="30" /></a>
 </p>
+
+<p align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true&theme=dark)
+
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&theme=dark)
+
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
