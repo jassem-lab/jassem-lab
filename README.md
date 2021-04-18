@@ -2,6 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm jassem</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia,</h3>
+<br/><br/>
+<p align="center">
+<a href="https://dev.to/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jassemgaaloul" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jassemgaaloul" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jassemgaaloul" height="30" width="30" /></a>
+<a href="https://codesandbox.com/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jassemgaaloul" height="30" width="30" /></a>
+<a href="https://fb.com/jassem gaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jassem gaaloul" height="30" width="30" /></a>
+<a href="https://instagram.com/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jassemgaaloul" height="30" width="30" /></a>
+</p>
 <br/>
 <br/>
 <br/>
@@ -40,18 +49,8 @@
 ---
 
   <h1> Stats : <h1/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&hide=html" alt="jassem-lab" /></p>
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true" alt="jassem-lab" /></p>
-<br/><br/>
-<p align="center">
-<a href="https://dev.to/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jassemgaaloul" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jassemgaaloul" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jassemgaaloul" height="30" width="30" /></a>
-<a href="https://codesandbox.com/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="jassemgaaloul" height="30" width="30" /></a>
-<a href="https://fb.com/jassem gaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jassem gaaloul" height="30" width="30" /></a>
-<a href="https://instagram.com/jassemgaaloul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jassemgaaloul" height="30" width="30" /></a>
-</p>
 
 <p align="center">
 
