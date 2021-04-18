@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working as **a freelancer**
 <br/><br/>
-- 🌱 I’m currently learning ** Python & C++ **
+- 🌱 I’m currently learning **Python & C++**
 <br/><br/>
 - 👨‍💻 All of my projects are available in <a href="https://jassemcodes.vercel.app/">Here ! </a>
 <br/><br/>
