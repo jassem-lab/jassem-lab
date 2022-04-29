@@ -54,11 +54,11 @@
 
 <p align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true&theme=gradient)
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&theme=gradient)
 
 <div align="center">
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
