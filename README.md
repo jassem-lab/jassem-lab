@@ -58,7 +58,7 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=compact&theme=gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jassem-lab&layout=gradient&theme=dark&langs_count=8)
 
 <div align="center">
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
